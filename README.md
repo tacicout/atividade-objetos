@@ -13,7 +13,7 @@
 ## Resumo do projeto
 
 
-<img src="https://github.com/campinho-digital/ciclo-1-desafio-1/assets/108235987/37aa4975-97d0-4c68-80f2-700914f5d0b0" alt="Instagram post dia do garçom ilustrado preto e amarelo" width="300">
+<img src="https://img.freepik.com/vetores-gratis/mulher-cliente-fazendo-compras-com-conceito-de-carrinho-de-mao_40876-2550.jpg" alt="Instagram post dia do garçom ilustrado preto e amarelo" width="300">
 
 
 
