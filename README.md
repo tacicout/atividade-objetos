@@ -19,9 +19,6 @@
 
 Como um cliente interessado em fazer compras online, eu gostaria de simular um carrinho de compras para adicionar produtos, visualizar os itens escolhidos, calcular o subtotal de cada produto e o valor total da compra, para poder tomar decisões de compra mais informadas.
 
-:warning: O restaurante oferece um desconto de 10% se o pagamento for feito via PIX ou em dinheiro, então o programa precisa ter a opção de inserir o meio de pagamento e calcular automaticamente esse desconto antes de exibir a conta final aos clientes. 
-## :pushpin: O que deve ser feito: 
-Seu desafio é  criar esse programa que será utilizado pelos garçons do estabelecimento, lembre-se de que será preciso  inserir o número de pessoas na mesa, o valor total da conta e o método de pagamento. O programa então calculará o valor total com o desconto aplicado, bem como o valor que cada pessoa deve pagar.
 
 
 ## :computer: Objetivos de aprendizagem
